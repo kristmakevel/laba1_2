@@ -9,5 +9,6 @@ int main() {
     std::cout << "(changed) multiply: " << multiply(a, b) << "\n";
     std::cout << "subtract: " << subtract(a, b) << "\n";
     std::cout << "add: " << add(a, b) << "\n";
+    std::cout << "division: " << division(a, b) << "\n";
     return 0;
 }
