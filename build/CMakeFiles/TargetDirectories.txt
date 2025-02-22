@@ -1,0 +1,4 @@
+C:/Users/macka/source/repos/kristmakevel/laba1_2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/macka/source/repos/kristmakevel/laba1_2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/macka/source/repos/kristmakevel/laba1_2/build/src/CMakeFiles/main.dir
+C:/Users/macka/source/repos/kristmakevel/laba1_2/build/src/libr/CMakeFiles/libr.dir

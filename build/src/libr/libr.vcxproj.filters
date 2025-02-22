@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\macka\source\repos\kristmakevel\laba1_2\src\libr\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\macka\source\repos\kristmakevel\laba1_2\src\libr\utils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\macka\source\repos\kristmakevel\laba1_2\src\libr\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{61C6E68A-FD4C-31A1-8650-6124C57F220C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2151D37D-5A72-3D11-B019-03341FA8EA1F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

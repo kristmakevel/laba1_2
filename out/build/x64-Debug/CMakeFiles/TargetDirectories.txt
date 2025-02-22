@@ -1,0 +1,8 @@
+C:/Users/macka/source/repos/kristmakevel/laba1_2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/macka/source/repos/kristmakevel/laba1_2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/macka/source/repos/kristmakevel/laba1_2/out/build/x64-Debug/src/CMakeFiles/main.dir
+C:/Users/macka/source/repos/kristmakevel/laba1_2/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/macka/source/repos/kristmakevel/laba1_2/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/macka/source/repos/kristmakevel/laba1_2/out/build/x64-Debug/src/libr/CMakeFiles/libr.dir
+C:/Users/macka/source/repos/kristmakevel/laba1_2/out/build/x64-Debug/src/libr/CMakeFiles/edit_cache.dir
+C:/Users/macka/source/repos/kristmakevel/laba1_2/out/build/x64-Debug/src/libr/CMakeFiles/rebuild_cache.dir
