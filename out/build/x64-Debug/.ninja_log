@@ -1,10 +1,5 @@
 # ninja log v6
-15	690	7619232061244927	src/CMakeFiles/main.dir/main.cpp.obj	8b8ebe8f9a4d877b
-36	120	7619232420388041	src/libr/CMakeFiles/libr.dir/utils.cpp.obj	a48311f5d6b5108c
-121	214	7619232421198974	src/libr/libr.lib	11179c848fd2151e
-42	567	7619232420434884	src/CMakeFiles/main.dir/main.cpp.obj	8b8ebe8f9a4d877b
-568	901	7619232425680839	C:/Users/macka/source/repos/kristmakevel/laba1_2/bin.dbg/main.exe	e1176f714e538377
-40	173	7619237813963389	src/libr/CMakeFiles/libr.dir/utils.cpp.obj	a48311f5d6b5108c
-174	287	7619237815337073	src/libr/libr.lib	11179c848fd2151e
-49	789	7619237814112976	src/CMakeFiles/main.dir/main.cpp.obj	8b8ebe8f9a4d877b
-798	1066	7619237821591660	C:/Users/macka/source/repos/kristmakevel/laba1_2/bin.dbg/main.exe	e1176f714e538377
+68	807	7619250307989801	src/CMakeFiles/main.dir/main.cpp.obj	8b8ebe8f9a4d877b
+807	974	7619250315418018	C:/Users/macka/source/repos/kristmakevel/laba1_2/bin.dbg/main.exe	e1176f714e538377
+64	709	7619250307969721	src/libr/CMakeFiles/libr.dir/utils.cpp.obj	a48311f5d6b5108c
+709	761	7619250314315497	src/libr/libr.lib	11179c848fd2151e
